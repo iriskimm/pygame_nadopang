@@ -87,7 +87,7 @@ ball_to_remove = -1
 
 # declares text font
 game_font = pygame.font.Font(None, 40)
-total_time = 10
+total_time = 100
 start_ticks = pygame.time.get_ticks() # starting time
 
 # end game message on screen:
