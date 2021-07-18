@@ -1,4 +1,4 @@
-# pygame_shooting
+# pygame_shooter
 
 ## General info
 This project is a simple game coded in python using pygame. 
