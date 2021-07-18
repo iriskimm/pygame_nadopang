@@ -1,4 +1,4 @@
-# pygame_nadopang
+# pygame_shooting
 
 ## General info
 This project is a simple game coded in python using pygame. 
